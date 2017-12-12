@@ -20,6 +20,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gui", "Gui", "{346A7391-2FD0-4BD7-980D-0625AB8A372E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceAccessServer", "ServiceAccessServer", "{DF98400C-3CA0-467C-A071-194E26CC4345}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{D40FCB7B-584E-4FC5-9CBA-7A64EF40999C}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.projitems*{2831eb1b-df07-4aba-8fbb-d123688d61f6}*SharedItemsImports = 4
