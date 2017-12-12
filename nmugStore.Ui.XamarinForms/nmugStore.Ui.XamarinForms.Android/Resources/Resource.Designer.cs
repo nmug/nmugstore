@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("nmugStore.Ui.XamarinForms.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("NMUGStore.Ui.XamarinForms.Droid.Resource", IsApplication=true)]
 
-namespace nmugStore.Ui.XamarinForms.Droid
+namespace NMUGStore.Ui.XamarinForms.Droid
 {
 	
 	
@@ -26,7 +26,7 @@ namespace nmugStore.Ui.XamarinForms.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::nmugStore.Ui.XamarinForms.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::NMUGStore.Ui.XamarinForms.Droid.Resource.Attribute.actionBarSize;
 		}
 		
 		public partial class Animation

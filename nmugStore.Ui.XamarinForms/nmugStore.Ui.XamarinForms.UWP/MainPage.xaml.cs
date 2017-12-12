@@ -13,7 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace nmugStore.Ui.XamarinForms.UWP
+namespace NMUGStore.Ui.XamarinForms.UWP
 {
     public sealed partial class MainPage
     {
@@ -21,7 +21,7 @@ namespace nmugStore.Ui.XamarinForms.UWP
         {
             this.InitializeComponent();
 
-            LoadApplication(new nmugStore.Ui.XamarinForms.App());
+            LoadApplication(new NMUGStore.Ui.XamarinForms.App());
         }
     }
 }

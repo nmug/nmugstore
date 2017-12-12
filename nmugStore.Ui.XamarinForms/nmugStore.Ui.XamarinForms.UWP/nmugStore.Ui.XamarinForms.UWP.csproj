@@ -7,8 +7,8 @@
     <ProjectGuid>{2831EB1B-DF07-4ABA-8FBB-D123688D61F6}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>nmugStore.Ui.XamarinForms.UWP</RootNamespace>
-    <AssemblyName>nmugStore.Ui.XamarinForms.UWP</AssemblyName>
+    <RootNamespace>NMUGStore.Ui.XamarinForms.UWP</RootNamespace>
+    <AssemblyName>NMUGStore.Ui.XamarinForms.UWP</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.15063.0</TargetPlatformVersion>

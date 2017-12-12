@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "nmugStore.Ui.XamarinForms", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.shproj", "{3F8304B1-CD89-4727-88D4-36507787174A}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NMUGStore.Ui.XamarinForms", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms\NMUGStore.Ui.XamarinForms.shproj", "{3F8304B1-CD89-4727-88D4-36507787174A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nmugStore.Ui.XamarinForms.Android", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.Android\nmugStore.Ui.XamarinForms.Android.csproj", "{81F63185-CB96-47ED-9751-CB40FB272537}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMUGStore.Ui.XamarinForms.Android", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.Android\NMUGStore.Ui.XamarinForms.Android.csproj", "{81F63185-CB96-47ED-9751-CB40FB272537}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nmugStore.Ui.XamarinForms.iOS", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.iOS\nmugStore.Ui.XamarinForms.iOS.csproj", "{BDCE56DE-4DDB-4542-837D-9B5607862CB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMUGStore.Ui.XamarinForms.iOS", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.iOS\NMUGStore.Ui.XamarinForms.iOS.csproj", "{BDCE56DE-4DDB-4542-837D-9B5607862CB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nmugStore.Ui.XamarinForms.UWP", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.UWP\nmugStore.Ui.XamarinForms.UWP.csproj", "{2831EB1B-DF07-4ABA-8FBB-D123688D61F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMUGStore.Ui.XamarinForms.UWP", "nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.UWP\NMUGStore.Ui.XamarinForms.UWP.csproj", "{2831EB1B-DF07-4ABA-8FBB-D123688D61F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F0CD838-DB2C-4EAB-A411-41E19210D021}"
 	ProjectSection(SolutionItems) = preProject
@@ -18,7 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Xamarin.md = Xamarin.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gui", "Gui", "{346A7391-2FD0-4BD7-980D-0625AB8A372E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GUII", "GUII", "{346A7391-2FD0-4BD7-980D-0625AB8A372E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceAccessServer", "ServiceAccessServer", "{DF98400C-3CA0-467C-A071-194E26CC4345}"
 EndProject

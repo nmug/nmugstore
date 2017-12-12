@@ -7,9 +7,9 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace nmugStore.Ui.XamarinForms.Droid
+namespace NMUGStore.Ui.XamarinForms.Droid
 {
-	[Activity (Label = "nmugStore.Ui.XamarinForms", Icon = "@drawable/icon", Theme="@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+	[Activity (Label = "NMUGStore.Ui.XamarinForms", Icon = "@drawable/icon", Theme="@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 	public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
 	{
 		protected override void OnCreate (Bundle bundle)
@@ -20,7 +20,7 @@ namespace nmugStore.Ui.XamarinForms.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
-			LoadApplication (new nmugStore.Ui.XamarinForms.App ());
+			LoadApplication (new NMUGStore.Ui.XamarinForms.App ());
 		}
 	}
 }

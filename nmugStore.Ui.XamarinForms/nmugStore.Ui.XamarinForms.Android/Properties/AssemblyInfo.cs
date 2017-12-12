@@ -6,11 +6,11 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("nmugStore.Ui.XamarinForms.Android")]
+[assembly: AssemblyTitle("NMUGStore.Ui.XamarinForms.Android")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("nmugStore.Ui.XamarinForms.Android")]
+[assembly: AssemblyProduct("NMUGStore.Ui.XamarinForms.Android")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace nmugStore.Ui.XamarinForms.iOS
+namespace NMUGStore.Ui.XamarinForms.iOS
 {
 	// The UIApplicationDelegate for the application. This class is responsible for launching the 
 	// User Interface of the application, as well as listening (and optionally responding) to 
@@ -23,7 +23,7 @@ namespace nmugStore.Ui.XamarinForms.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-			LoadApplication (new nmugStore.Ui.XamarinForms.App ());
+			LoadApplication (new NMUGStore.Ui.XamarinForms.App ());
 
 			return base.FinishedLaunching (app, options);
 		}

@@ -5,7 +5,7 @@ using System.Text;
 
 using Xamarin.Forms;
 
-namespace nmugStore.Ui.XamarinForms
+namespace NMUGStore.Ui.XamarinForms
 {
 	public partial class App : Application
 	{
@@ -13,7 +13,7 @@ namespace nmugStore.Ui.XamarinForms
 		{
 			InitializeComponent();
 
-			MainPage = new nmugStore.Ui.XamarinForms.MainPage();
+			MainPage = new NMUGStore.Ui.XamarinForms.MainPage();
 		}
 
 		protected override void OnStart ()

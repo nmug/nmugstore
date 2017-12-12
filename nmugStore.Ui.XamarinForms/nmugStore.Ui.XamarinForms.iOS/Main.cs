@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace nmugStore.Ui.XamarinForms.iOS
+namespace NMUGStore.Ui.XamarinForms.iOS
 {
 	public class Application
 	{
