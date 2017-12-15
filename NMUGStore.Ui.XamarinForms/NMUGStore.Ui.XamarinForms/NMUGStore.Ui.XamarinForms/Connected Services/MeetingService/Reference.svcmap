@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d57c8625-5c06-4e47-b7c4-daa6bb221523" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/NMUG.WCFHost/MeetingService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MeetingService.xsd" MetadataType="Schema" ID="e3dfeae0-ca92-4fc1-994b-e5b9eb2c6847" SourceId="1" SourceUrl="http://localhost/NMUG.WCFHost/MeetingService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MeetingService.disco" MetadataType="Disco" ID="32929902-8913-4090-a153-85afaad8524e" SourceId="1" SourceUrl="http://localhost/NMUG.WCFHost/MeetingService.svc?disco" />
+    <MetadataFile FileName="MeetingService1.xsd" MetadataType="Schema" ID="8f91f270-04e5-4121-997f-c1fae4c99da5" SourceId="1" SourceUrl="http://localhost/NMUG.WCFHost/MeetingService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MeetingService2.xsd" MetadataType="Schema" ID="f256a480-be64-44a3-ad15-6e30e5fbec1f" SourceId="1" SourceUrl="http://localhost/NMUG.WCFHost/MeetingService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MeetingService.wsdl" MetadataType="Wsdl" ID="90807c1e-6fff-4e3a-aff2-71bfd2085bf5" SourceId="1" SourceUrl="http://localhost/NMUG.WCFHost/MeetingService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

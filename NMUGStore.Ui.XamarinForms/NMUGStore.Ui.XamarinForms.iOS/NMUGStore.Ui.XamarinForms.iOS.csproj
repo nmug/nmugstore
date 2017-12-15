@@ -134,7 +134,12 @@
     </Reference>
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
-  <Import Project="..\nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.projitems" Label="Shared" Condition="Exists('..\nmugStore.Ui.XamarinForms\nmugStore.Ui.XamarinForms.projitems')" />
+  <ItemGroup>
+    <ProjectReference Include="..\NMUGStore.Ui.XamarinForms\NMUGStore.Ui.XamarinForms\NMUGStore.Ui.XamarinForms.csproj">
+      <Project>{04a454d8-d218-4220-9334-60d1d4ae629a}</Project>
+      <Name>NMUGStore.Ui.XamarinForms</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
